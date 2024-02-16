@@ -4,4 +4,4 @@ This project is a beginner level project where a user gives in a data(url, text)
 # To Run 
 install node in your system
 
-node index.js
+command ---->   node index.js
