@@ -3,7 +3,7 @@ This project is a beginner level project where a user gives in a data(url, text)
 <br>
 # To Run 
 Install node in your system(sudo apt install node) <br>
-Check node version(node --version)
+Check node version(node --version)<br>
 <br>
 command to run project   ---->   node index.js
 ![image](https://github.com/SatishKumar1911/QR-Code-Generator/assets/124880943/7885bf61-85a2-4fa1-aace-710e2f4a6776)
