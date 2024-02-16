@@ -1,0 +1,16 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "This project is going to take a input string from the user and convert it into its equivalent QR code as a seperate image file, In which by scanning the QR-code the user will get the exact value of the QR-code.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satish Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.14",
+    "qr-image": "^3.2.0"
+  }
+}
