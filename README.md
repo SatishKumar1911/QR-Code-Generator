@@ -6,5 +6,7 @@ Install node in your system(sudo apt install node)
 Check node version(node --version)
 
 command to run project   ---->   node index.js
-![image](https://github.com/SatishKumar1911/QR-Code-Generator/assets/124880943/9433837a-abd9-468c-99d4-b54191bff5c2)
+![image](https://github.com/SatishKumar1911/QR-Code-Generator/assets/124880943/7885bf61-85a2-4fa1-aace-710e2f4a6776)
 
+# Output
+![image](https://github.com/SatishKumar1911/QR-Code-Generator/assets/124880943/3948c754-e666-42b7-be1f-c9d706fe919d)
